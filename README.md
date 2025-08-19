@@ -24,7 +24,7 @@ Ensure you have Java 17 or newer and Maven installed on your machine. Follow the
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/zodiac141/SpringQuizWIzzard.git
+git clone https://github.com/Khushi1406/SpringQuizWIzzard-main.git
 cd SpringQuizWIzzard
 
 Create a MySQL database named quiz and update src/main/resources/application.properties with your database credentials.
